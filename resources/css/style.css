@@ -25,3 +25,12 @@ body {
     color: gray;
 }
 
+.heading-3 {
+    color: white;
+}
+
+.footer {
+    color: gray;
+    font-size: 21px;
+    text-align: right;
+}
